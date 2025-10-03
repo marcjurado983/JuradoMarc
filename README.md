@@ -20,7 +20,7 @@ Soc una persona molt treballadora quan alguna cosa em motiva, m’agrada gaudir 
 
 ---
 
-## 💼 Experiència Laboral
+   Experiència Laboral
 - **2023-24**: Treballant en una fàbrica *“Boboli”*  
 - **2023-24**: Escola Pia Voluntariat - Títol Mossos d’Esquadra  
 - **2023-25**: Experiència en Arduino optatives  
@@ -28,7 +28,7 @@ Soc una persona molt treballadora quan alguna cosa em motiva, m’agrada gaudir 
 
 ---
 
-## 🛠 Habilitats
+ Habilitats
 - Entrenar  
 - Deures, menjar i dormir  
 - M’agrada treballar sabent llegir o informar-me abans de fer el que s’ha de fer  
@@ -37,13 +37,12 @@ Soc una persona molt treballadora quan alguna cosa em motiva, m’agrada gaudir 
 
 ---
 
-## 🎓 Estudis
+   Estudis
 - **Educació Secundària Obligatòria (2020-2024)**  
 - Estudis de Grau Mitjà en Sistemes Microinformàtics i Xarxes - en curs  
 
 ---
 
-## 📞 Contacte
+  Contacte
 - 📱 655758954  
 - 📧 [marcjurado00@gmail.com](mailto:marcjurado00@gmail.com)  
-- IG: *@_Mataró_*
